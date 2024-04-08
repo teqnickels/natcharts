@@ -14,3 +14,11 @@ __NOTE:__ _The Environment Variables have been redacted out for security reasons
 * Node Session
 * Passport.js
 
+  Instructions:
+  - Grab env file (BJ Drive) and add to the directory
+  - NPM Start
+  - Listening on localhost:3000
+ 
+  Next Steps:
+  Get the fetch call to work
+
